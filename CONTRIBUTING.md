@@ -12,4 +12,4 @@ Thank you for considering contributing to this repository! Contributions are hig
 2. Clone the forked repository to your local machine:
 
    ```bash
-   git clone [Arifur Rahman Chowdhury](https://github.com/ARIFChowdhury-CODEX/Arif).git
+   git clone https://github.com/ARIFChowdhury-CODEX/Arif.git
