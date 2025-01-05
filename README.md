@@ -1,6 +1,6 @@
 # Arifur Rahman Chowdhury – CEO, Codex Creative Studio
 
-![Header Image](link-to-your-header-image)
+![Header Image](https://scontent.fdac138-2.fna.fbcdn.net/v/t39.30808-1/441523873_122146862660202401_7653202844508301188_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=102&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=tWYT09z9SYUQ7kNvgEF1Vi6&_nc_zt=24&_nc_ht=scontent.fdac138-2.fna&_nc_gid=AMNHuMrkh5Y4lppm-qcKWHZ&oh=00_AYDkTvZ5qa0jsjiXg3i0sbHSOWESYnAnKQNW00mhRjdHLQ&oe=67807060)
 
 ## 📚 About Me
 I am a passionate Web Developer, AI Integrator, and Content Strategist with expertise in creating innovative solutions for businesses. From building scalable web applications to designing AI-powered tools, I thrive on challenges that push the boundaries of technology.
