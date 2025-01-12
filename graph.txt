@@ -1,0 +1,181 @@
+{
+
+"id": "profileId",
+
+"account": [
+
+{
+
+"userPrincipalName": "learners@codexcreativestudio.com",
+
+"createdDateTime": "2024-12-20T08:48:00.9804652Z",
+
+"lastModifiedDateTime": "2024-12-23T09:57:05.4338358Z",
+
+"id": "505b88b8-9ed5-4b11-8789-ac79e2bdce5e"
+
+},
+
+{
+
+"userPrincipalName": "",
+
+"createdDateTime": "2024-12-22T16:45:05.12127Z",
+
+"lastModifiedDateTime": "2024-12-23T09:57:05.4338358Z",
+
+"id": "2b7468df-2231-4caa-8859-b8d7af32a778"
+
+}
+
+],
+
+"names": [
+
+{
+
+"displayName": "Arifur Rahman Chowdhury",
+
+"first": "Arifur Rahman",
+
+"last": "Chowdhury",
+
+"createdDateTime": "2024-12-20T08:48:00.9804693Z",
+
+"lastModifiedDateTime": "2024-12-20T08:48:00.9804697Z",
+
+"id": "AadSource"
+
+}
+
+],
+
+"emails": [
+
+{
+
+"address": "learners@codexcreativestudio.com",
+
+"type": "main",
+
+"createdDateTime": "2024-12-22T16:45:05.1212727Z",
+
+"lastModifiedDateTime": "2024-12-22T16:45:05.1212728Z",
+
+"id": "70ee226e-b6d8-49a8-b590-4d4ee6957317"
+
+}
+
+],
+
+"phones": [
+
+{
+
+"type": "mobile",
+
+"number": "+8801753058505",
+
+"createdDateTime": "2024-12-22T16:45:05.1212746Z",
+
+"lastModifiedDateTime": "2024-12-22T16:45:05.1212746Z",
+
+"id": "e099226e-1253-4c53-8622-30531972182e"
+
+}
+
+],
+
+"positions": [
+
+{
+
+"isCurrent": true,
+
+"createdDateTime": "2024-12-22T16:45:05.121275Z",
+
+"lastModifiedDateTime": "2024-12-28T19:19:40.8266783Z",
+
+"id": "5be8935d-f4a1-4684-a7e8-142223012983",
+
+"detail": {
+
+"jobTitle": "CEO and Founder",
+
+"company": {
+
+"displayName": "Codex Creative Studio",
+
+"department": "Codex Content Strategist Department",
+
+"officeLocation": "Codex Creative Studio"
+
+}
+
+}
+
+},
+
+{
+
+"isCurrent": true,
+
+"createdDateTime": "2024-12-28T19:19:40.8266777Z",
+
+"lastModifiedDateTime": "2024-12-28T19:19:40.8266778Z",
+
+"id": "764fc04b-688c-4ad9-abf1-ae2b8efb7719",
+
+"detail": {
+
+"company": {
+
+"displayName": "Codex Creative Studio"
+
+}
+
+}
+
+}
+
+],
+
+"webAccounts": [
+
+{
+
+"userId": "SIP:learners@codexcreativestudio.com",
+
+"description": "Address used for interacting with a user through instant messaging services",
+
+"createdDateTime": "2024-12-22T16:45:05.1212738Z",
+
+"lastModifiedDateTime": "2024-12-22T16:45:05.1212742Z",
+
+"id": "bdbe581f-167c-4359-b5df-3f931a7a815d",
+
+"service": {
+
+"name": "Microsoft Teams for Business",
+
+"webUrl": "graph.microsoft.com/teams"
+
+}
+
+},
+
+{
+
+"webUrl": "https://codexcreativestudio0-my.sharepoint.com/personal/learners\_codexcreativestudio\_com",
+
+"createdDateTime": "2024-12-25T07:23:09.7180817Z",
+
+"lastModifiedDateTime": "2024-12-25T07:23:09.7180821Z",
+
+"id": "7d730af1-c943-4720-8886-fc37fcc8ddc3"
+
+}
+
+]
+
+}
